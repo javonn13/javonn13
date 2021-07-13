@@ -1,6 +1,8 @@
 Hi there 👋🏿👋🏿👋🏿
 
-I'm Ja' Vonn Liner, a very ambitious software developer and military veteran with four and a half years of experience in leadership, team building, problem solving, and training. Seeking a software engineering position to solve complex customer problems with technology while expanding my experience within the field.
+I'm Ja' Vonn Liner, a very ambitious software developer and military veteran with four and a half years of experience in leadership, team building, problem solving, and training. I like making crazy and wild stuff!!!
+
+💀 I know SQL, C#, Python, HTML, JavaScript, and CSS
 
 👽 Currently working on my Mario C# and Zelda JavaScript
 
