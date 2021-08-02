@@ -13,3 +13,5 @@ I'm Ja' Vonn Liner, a very ambitious software developer and military veteran wit
 🧙‍♂️ Connect and reach me on LinkedIn as well.
 
 🧝 Pronouns: he/him/his
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
