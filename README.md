@@ -1,3 +1,6 @@
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
 Hi there 👋🏿👋🏿👋🏿
 
 I'm Ja' Vonn Liner, a very ambitious software developer and military veteran with four and a half years of experience in leadership, team building, problem solving, and training. I like making crazy and wild stuff!!!
@@ -15,3 +18,6 @@ I'm Ja' Vonn Liner, a very ambitious software developer and military veteran wit
 🧝 Pronouns: he/him/his
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![javonn13's GitHub stats](https://github-readme-stats.vercel.app/api?username=javonn13)](https://github.com/javonn13/github-readme-stats)
+
