@@ -1,4 +1,4 @@
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+ ![visitors](https://github.com/javonn13/badge?page_id=page.id)
 
 
 Hi there 👋🏿👋🏿👋🏿
