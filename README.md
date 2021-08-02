@@ -1,6 +1,3 @@
- ![visitors](https://github.com/javonn13/badge?page_id=page.id)
-
-
 Hi there 👋🏿👋🏿👋🏿
 
 I'm Ja' Vonn Liner, a very ambitious software developer and military veteran with four and a half years of experience in leadership, team building, problem solving, and training. I like making crazy and wild stuff!!!
