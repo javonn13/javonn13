@@ -18,5 +18,5 @@ I'm Ja' Vonn Liner, a very ambitious software developer and military veteran wit
 
 [![javonn13's GitHub stats](https://github-readme-stats.vercel.app/api?username=javonn13)](https://github.com/javonn13/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/javonn13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javonn13&layout=compact)](https://github.com/javonn13/github-readme-stats)
 
