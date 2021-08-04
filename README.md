@@ -1,3 +1,4 @@
+${javonn13}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
 Hi there 👋🏿👋🏿👋🏿
 
 I'm Ja' Vonn Liner, a very ambitious software developer and military veteran with four and a half years of experience in leadership, team building, problem solving, and training. I like making crazy and wild stuff!!!
